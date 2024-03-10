@@ -1,0 +1,17 @@
+body {
+  display: flex;
+
+}
+
+input {
+  min-width: 300px;
+}
+
+button {
+  cursor: pointer;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
